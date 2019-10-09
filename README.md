@@ -526,7 +526,7 @@ xhr.send('username=xxx')
 ## 豆瓣电影API
 1、豆瓣热映
 
-接口：https://api.douban.com/v2/movie/in_theaters
+接口：https://api.douban.com/v2/movie/in_theaters?apikey=0df993c66c0c636e29ecbb5344252a4a
 
  
 
